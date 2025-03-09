@@ -32,7 +32,7 @@ const FeaturedProducts = () => {
               return (
                 <CarouselItem
                   key={id}
-                  className="md:basis-1/2 lg:basis-2/3 group">
+                  className="md:basis-1/2 lg:basis-1/3 group">
                   <div className="p-1">
                     <Card className="py-4 border border-gray-200 shadow-none">
                       <CardContent className="relative flex items-center justify-center px-6 py-2">
